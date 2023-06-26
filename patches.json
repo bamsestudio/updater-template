@@ -1,0 +1,17 @@
+{
+  "patches": [
+    {
+      "name": "Hello, world",
+      "branch": "helloworld",
+      "patch": "1.0.0"
+    },
+    {
+      "name": "Hello, game",
+      "branch": "hellogame",
+      "patch": "1.0.1"
+    }
+  ],
+  "lat": "1.0.1",
+  "rec:" "1.0.0",
+  "defrec": false
+}
