@@ -13,5 +13,7 @@
   ],
   "lat": "1.0.1",
   "rec": "1.0.0",
-  "defrec": false
+  "defrec": false,
+
+  "name": "updater-template"
 }
